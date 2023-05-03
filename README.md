@@ -31,7 +31,7 @@
      <img alt="ANGULAR" src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/angular.svg"
      title="ANGULAR" width="40" height="40">&nbsp;    
      <img alt="AZURE" src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/azure.svg"
-     title="AZURE" width="40" height="40">&nbsp;   
+     title="AZURE" width="60" height="60">&nbsp;   
      <img alt="GITHUB" src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/github.svg"
      title="GITHUB" width="40" height="40">&nbsp;   
      <img alt="SQL" src="https://user-images.githubusercontent.com/132395219/235812571-51668f84-0e03-4cdc-8c5f-35c4a29c07b3.png"
